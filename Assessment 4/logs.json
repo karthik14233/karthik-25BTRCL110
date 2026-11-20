@@ -1,0 +1,26 @@
+[
+  {
+    "level": "INFO",
+    "message": "Server started"
+  },
+  {
+    "level": "INFO",
+    "message": "User Karthik logged in"
+  },
+  {
+    "level": "WARNING",
+    "message": "Disk usage at 82%"
+  },
+  {
+    "level": "ERROR",
+    "message": "Database connection failed"
+  },
+  {
+    "level": "ERROR",
+    "message": "Timeout while saving record"
+  },
+  {
+    "level": "INFO",
+    "message": "Backup completed"
+  }
+]
